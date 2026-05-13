@@ -1,66 +1,30 @@
-# <h1 align="center">⚡ Mirza Uzair Baig ⚡</h1>
+<h1 align="center">⚡ Mirza Uzair Baig ⚡</h1>
 
-<h3 align="center">Frontend Developer • JavaScript Enthusiast • Firebase Explorer</h3>
+<h3 align="center">
+Frontend Developer • JavaScript Enthusiast • Firebase Explorer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=700&lines=Building+Modern+Web+Applications;JavaScript+%7C+Firebase+%7C+Frontend;Always+Learning+New+Technologies;Turning+Ideas+Into+Reality" />
+  <a href="https://github.com/uzairBaig395">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Frontend+Developer;JavaScript+Learner;Firebase+Projects+Builder;Creating+Modern+Web+Experiences;Always+Learning+New+Technologies" />
+  </a>
 </p>
 
 ---
 
 # 🚀 About Me
 
-```js
-const uzair = {
-    code: ["JavaScript", "HTML", "CSS"],
-    tools: ["Firebase", "Git", "GitHub", "VS Code"],
-    currentFocus: "Frontend Development",
-    learning: "Full Stack Web Development",
-    mindset: "Build • Learn • Improve • Repeat"
-};
-```
+💻 Passionate Frontend Developer focused on building modern, responsive, and interactive web applications.
 
----
+🔥 Currently improving my skills in:
 
-# 🛠 Tech Stack
+- JavaScript
+- Firebase
+- React JS
+- Git & GitHub
+- Responsive Web Design
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,firebase,git,github,vscode" />
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uzairBaig395&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzairBaig395&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uzairBaig395&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=uzairBaig395&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uzairBaig395&theme=tokyo-night&hide_border=true"/>
-</p>
+⚡ I love turning ideas into real-world projects and continuously improving my development skills.
 
 ---
 
@@ -68,29 +32,95 @@ const uzair = {
 
 <p align="center">
   <a href="mailto:mirzauzair448@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
   <a href="https://github.com/uzairBaig395">
-    <img src="https://skillicons.dev/icons?i=github" height="50"/>
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
+---
+
+# 🛠️ Tech Stack
+
 <p align="center">
-📧 Email: <b>mirzauzair448@gmail.com</b><br>
-📱 Phone: <b>0307-2274835</b>
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,firebase,react,git,github,vscode" />
+
 </p>
 
 ---
 
-# 💻 Developer Quote
+# 📂 Featured Projects
+
+## 🔥 Firebase Todo App
+✔️ Real-time Firebase database integration  
+✔️ Add/Delete/Manage tasks  
+✔️ Responsive UI  
+
+---
+
+## 🎮 Game Projects
+✔️ Interactive browser games  
+✔️ JavaScript logic implementation  
+✔️ Dynamic UI animations  
+
+---
+
+## 🛒 Ecommerce Websites
+✔️ Responsive layouts  
+✔️ Modern UI design  
+✔️ Product showcase pages  
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <i>"Great developers are not born — they are built through consistency, debugging, and endless learning."</i>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=uzairBaig395&show_icons=true&theme=radical" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzairBaig395&layout=compact&theme=radical"/>
+
 </p>
 
 ---
 
+# 🔥 GitHub Streak
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=uzairBaig395&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://streak-stats.demolab.com?user=uzairBaig395&theme=radical&border_radius=10" />
+</p>
+
+---
+
+# 🧠 Currently Learning
+
+- Advanced JavaScript
+- React Ecosystem
+- Firebase Authentication
+- API Integration
+- Clean UI/UX Principles
+
+---
+
+# 🎯 2026 Goals
+
+✅ Build Full Stack Projects  
+✅ Master React JS  
+✅ Learn Backend Development  
+✅ Contribute to Open Source  
+✅ Create Professional SaaS Projects  
+
+---
+
+# ⚡ Fun Fact
+
+💡 “Code. Learn. Build. Repeat.”
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
 </p>
