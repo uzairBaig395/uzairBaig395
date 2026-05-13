@@ -1,43 +1,61 @@
-<h1 align="center">⚡ Mirza Uzair Baig ⚡</h1>
+<h1 align="center">⚡ MIRZA UZAIR BAIG ⚡</h1>
 
 <h3 align="center">
-Frontend Developer • JavaScript Enthusiast • Firebase Explorer
+Frontend Developer • JavaScript Developer • Firebase Enthusiast
 </h3>
 
 <p align="center">
-  <a href="https://github.com/uzairBaig395">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Frontend+Developer;JavaScript+Learner;Firebase+Projects+Builder;Creating+Modern+Web+Experiences;Always+Learning+New+Technologies" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=750&lines=Building+Modern+Web+Experiences;Frontend+Developer+From+Pakistan;JavaScript+%26+Firebase+Developer;Passionate+About+Clean+UI+Design;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-# 🚀 About Me
-
-💻 Passionate Frontend Developer focused on building modern, responsive, and interactive web applications.
-
-🔥 Currently improving my skills in:
-
-- JavaScript
-- Firebase
-- React JS
-- Git & GitHub
-- Responsive Web Design
-
-⚡ I love turning ideas into real-world projects and continuously improving my development skills.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=uzairBaig395&label=Profile%20Views&color=red&style=for-the-badge" />
+</p>
 
 ---
 
-# 🌐 Connect With Me
+# 💫 About Me
+
+```js
+const uzair = {
+    location: "Pakistan",
+    role: "Frontend Developer",
+    technologies: ["HTML", "CSS", "JavaScript", "Firebase"],
+    currentlyLearning: ["Advanced JavaScript", "APIs", "Backend Basics"],
+    portfolioGoal: "Building Professional & Modern Web Applications"
+};
+```
+
+💻 Passionate about creating responsive and interactive web applications with clean UI and smooth user experiences.
+
+🚀 Focused on improving frontend development skills and building real-world projects using modern web technologies.
+
+⚡ Strong interest in JavaScript logic, Firebase integration, and creative UI design.
+
+---
+
+# 🌐 Contact Information
 
 <p align="center">
-  <a href="mailto:mirzauzair448@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 
-  <a href="https://github.com/uzairBaig395">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<a href="mailto:mirzauzair448@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/uzairBaig395">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+
+📧 Email: <b>mirzauzair448@gmail.com</b> <br>
+📱 Phone: <b>03072274835</b> <br>
+💻 GitHub: <b>github.com/uzairBaig395</b>
+
 </p>
 
 ---
@@ -46,81 +64,84 @@ Frontend Developer • JavaScript Enthusiast • Firebase Explorer
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,firebase,react,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,firebase,git,github,vscode" />
 
 </p>
 
 ---
 
-# 📂 Featured Projects
+# 🚀 Featured Projects
 
-## 🔥 Firebase Todo App
-✔️ Real-time Firebase database integration  
-✔️ Add/Delete/Manage tasks  
-✔️ Responsive UI  
-
----
-
-## 🎮 Game Projects
-✔️ Interactive browser games  
-✔️ JavaScript logic implementation  
-✔️ Dynamic UI animations  
+## 🔥 Firebase Todo Application
+✔️ Firebase Firestore Integration  
+✔️ Real-time Data Handling  
+✔️ Responsive Modern UI  
+✔️ Dynamic Task Management  
 
 ---
 
-## 🛒 Ecommerce Websites
-✔️ Responsive layouts  
-✔️ Modern UI design  
-✔️ Product showcase pages  
+## 🛒 Ecommerce Web Projects
+✔️ Modern Responsive Layouts  
+✔️ Product Showcase UI  
+✔️ Interactive Components  
+✔️ Clean Design Principles  
 
 ---
 
-# 📊 GitHub Stats
+## 🎮 JavaScript Game Projects
+✔️ DOM Manipulation  
+✔️ JavaScript Logic Building  
+✔️ Interactive User Experience  
+✔️ Dynamic Gameplay Features  
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=uzairBaig395&show_icons=true&theme=radical" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=uzairBaig395&show_icons=true&theme=radical&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzairBaig395&layout=compact&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzairBaig395&layout=compact&theme=radical&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 Contribution Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=uzairBaig395&theme=radical&border_radius=10" />
+<img src="https://streak-stats.demolab.com?user=uzairBaig395&theme=radical&hide_border=true"/>
 </p>
 
 ---
 
-# 🧠 Currently Learning
+# 🧠 Current Focus
 
-- Advanced JavaScript
-- React Ecosystem
+- Advanced JavaScript Concepts
 - Firebase Authentication
-- API Integration
-- Clean UI/UX Principles
+- REST APIs
+- UI/UX Improvements
+- Clean & Scalable Frontend Development
 
 ---
 
 # 🎯 2026 Goals
 
-✅ Build Full Stack Projects  
-✅ Master React JS  
+✅ Build Professional Portfolio Projects  
+✅ Master Frontend Development  
 ✅ Learn Backend Development  
-✅ Contribute to Open Source  
-✅ Create Professional SaaS Projects  
+✅ Contribute To Open Source  
+✅ Create Full Stack Applications  
 
 ---
 
-# ⚡ Fun Fact
+# ⚡ Developer Mindset
 
-💡 “Code. Learn. Build. Repeat.”
+> “Consistency and continuous learning build great developers.”
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
 </p>
