@@ -5,13 +5,7 @@ Frontend Developer • JavaScript Developer • Firebase Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=750&lines=Building+Modern+Web+Experiences;Frontend+Developer+From+Pakistan;JavaScript+%26+Firebase+Developer;Passionate+About+Clean+UI+Design;Always+Learning+New+Technologies" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=uzairBaig395&label=Profile%20Views&color=red&style=for-the-badge" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=750&lines=Building+Modern+Web+Experiences;Frontend+Developer+From+Pakistan;JavaScript+%26+Firebase+Developer;Currently+Learning+Full+Stack+Development;Passionate+About+Clean+UI+Design" />
 </p>
 
 ---
@@ -23,16 +17,16 @@ const uzair = {
     location: "Pakistan",
     role: "Frontend Developer",
     technologies: ["HTML", "CSS", "JavaScript", "Firebase"],
-    currentlyLearning: ["Advanced JavaScript", "APIs", "Backend Basics"],
+    currentlyLearning: ["Full Stack Development", "Advanced JavaScript", "APIs"],
     portfolioGoal: "Building Professional & Modern Web Applications"
 };
 ```
 
 💻 Passionate about creating responsive and interactive web applications with clean UI and smooth user experiences.
 
-🚀 Focused on improving frontend development skills and building real-world projects using modern web technologies.
+🚀 Currently learning Full Stack Development and improving real-world development skills through modern projects.
 
-⚡ Strong interest in JavaScript logic, Firebase integration, and creative UI design.
+⚡ Strong interest in JavaScript logic, Firebase integration, backend concepts, and creative UI design.
 
 ---
 
@@ -118,19 +112,20 @@ const uzair = {
 
 # 🧠 Current Focus
 
+- Full Stack Development
 - Advanced JavaScript Concepts
 - Firebase Authentication
 - REST APIs
 - UI/UX Improvements
-- Clean & Scalable Frontend Development
+- Clean & Scalable Web Development
 
 ---
 
 # 🎯 2026 Goals
 
+✅ Become a Full Stack Developer  
 ✅ Build Professional Portfolio Projects  
-✅ Master Frontend Development  
-✅ Learn Backend Development  
+✅ Learn Backend Development Deeply  
 ✅ Contribute To Open Source  
 ✅ Create Full Stack Applications  
 
