@@ -5,7 +5,7 @@ Frontend Developer • JavaScript Developer • Firebase Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=750&lines=Building+Modern+Web+Experiences;Frontend+Developer+From+Pakistan;JavaScript+%26+Firebase+Developer;Currently+Learning+Full+Stack+Development;Passionate+About+Clean+UI+Design" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=750&lines=Building+Modern+Web+Experiences;JavaScript+%26+Firebase+Developer;Currently+Learning+Full+Stack+Development;Passionate+About+Clean+UI+Design;Creating+Professional+Web+Applications" />
 </p>
 
 ---
@@ -14,7 +14,6 @@ Frontend Developer • JavaScript Developer • Firebase Enthusiast
 
 ```js
 const uzair = {
-    location: "Pakistan",
     role: "Frontend Developer",
     technologies: ["HTML", "CSS", "JavaScript", "Firebase"],
     currentlyLearning: ["Full Stack Development", "Advanced JavaScript", "APIs"],
