@@ -42,13 +42,18 @@ const uzair = {
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://www.linkedin.com/in/uzair-baig">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </p>
 
 <p align="center">
 
 📧 Email: <b>mirzauzair448@gmail.com</b> <br>
 📱 Phone: <b>03072274835</b> <br>
-💻 GitHub: <b>github.com/uzairBaig395</b>
+💻 GitHub: <b>github.com/uzairBaig395</b> <br>
+🔗 LinkedIn: <b>Uzair Baig</b>
 
 </p>
 
