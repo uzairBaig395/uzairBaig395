@@ -1,3 +1,4 @@
+````md
 <h1 align="center">⚡ MIRZA UZAIR BAIG ⚡</h1>
 
 <h3 align="center">
@@ -20,7 +21,7 @@ const uzair = {
     currentlyLearning: ["Full Stack Development", "Advanced JavaScript", "APIs"],
     portfolioGoal: "Building Professional & Modern Web Applications"
 };
-```
+````
 
 💻 Passionate about creating responsive and interactive web applications with clean UI and smooth user experiences.
 
@@ -42,13 +43,18 @@ const uzair = {
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://www.linkedin.com/in/uzair-baig">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </p>
 
 <p align="center">
 
-📧 Email: <b>mirzauzair448@gmail.com</b> <br>
+📧 Email: <b>[mirzauzair448@gmail.com](mailto:mirzauzair448@gmail.com)</b> <br>
 📱 Phone: <b>03072274835</b> <br>
-💻 GitHub: <b>github.com/uzairBaig395</b>
+💻 GitHub: <b>github.com/uzairBaig395</b> <br>
+🔗 LinkedIn: <b>linkedin.com/in/uzair-baig</b>
 
 </p>
 
@@ -67,26 +73,29 @@ const uzair = {
 # 🚀 Featured Projects
 
 ## 🔥 Firebase Todo Application
-✔️ Firebase Firestore Integration  
-✔️ Real-time Data Handling  
-✔️ Responsive Modern UI  
-✔️ Dynamic Task Management  
+
+✔️ Firebase Firestore Integration
+✔️ Real-time Data Handling
+✔️ Responsive Modern UI
+✔️ Dynamic Task Management
 
 ---
 
 ## 🛒 Ecommerce Web Projects
-✔️ Modern Responsive Layouts  
-✔️ Product Showcase UI  
-✔️ Interactive Components  
-✔️ Clean Design Principles  
+
+✔️ Modern Responsive Layouts
+✔️ Product Showcase UI
+✔️ Interactive Components
+✔️ Clean Design Principles
 
 ---
 
 ## 🎮 JavaScript Game Projects
-✔️ DOM Manipulation  
-✔️ JavaScript Logic Building  
-✔️ Interactive User Experience  
-✔️ Dynamic Gameplay Features  
+
+✔️ DOM Manipulation
+✔️ JavaScript Logic Building
+✔️ Interactive User Experience
+✔️ Dynamic Gameplay Features
 
 ---
 
@@ -112,22 +121,22 @@ const uzair = {
 
 # 🧠 Current Focus
 
-- Full Stack Development
-- Advanced JavaScript Concepts
-- Firebase Authentication
-- REST APIs
-- UI/UX Improvements
-- Clean & Scalable Web Development
+* Full Stack Development
+* Advanced JavaScript Concepts
+* Firebase Authentication
+* REST APIs
+* UI/UX Improvements
+* Clean & Scalable Web Development
 
 ---
 
 # 🎯 2026 Goals
 
-✅ Become a Full Stack Developer  
-✅ Build Professional Portfolio Projects  
-✅ Learn Backend Development Deeply  
-✅ Contribute To Open Source  
-✅ Create Full Stack Applications  
+✅ Become a Full Stack Developer
+✅ Build Professional Portfolio Projects
+✅ Learn Backend Development Deeply
+✅ Contribute To Open Source
+✅ Create Full Stack Applications
 
 ---
 
@@ -140,3 +149,4 @@ const uzair = {
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
 </p>
+```
