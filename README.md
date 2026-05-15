@@ -155,6 +155,6 @@ const uzair = {
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
 </p>
-
+https://komarev.com/ghpvc/?username=Uzairbaig395&color=blue
 </body>
 </html>
