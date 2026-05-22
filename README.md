@@ -1,484 +1,261 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-
-<title>Mirza Uzair Baig Portfolio</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Uzair Portfolio</title>
 
 <style>
-
 *{
-    margin:0;
-    padding:0;
-    box-sizing:border-box;
-    scroll-behavior:smooth;
+margin:0;
+padding:0;
+box-sizing:border-box;
+font-family:Arial;
 }
 
 body{
-    background:#0f172a;
-    color:white;
-    font-family:Arial, Helvetica, sans-serif;
-    line-height:1.7;
+background:#0f172a;
+color:white;
+padding:20px;
 }
 
 .container{
-    width:90%;
-    max-width:1200px;
-    margin:auto;
-    padding:40px 0;
-}
-
-h1,h2,h3{
-    margin-bottom:15px;
-}
-
-h1{
-    font-size:55px;
-    color:#ff0000;
-    text-align:center;
-    text-shadow:0 0 15px red;
-}
-
-.main-heading{
-    text-align:center;
-    color:#cbd5e1;
-    margin-bottom:30px;
-    font-size:22px;
+max-width:1000px;
+margin:auto;
 }
 
 .section{
-    background:#111c34;
-    padding:30px;
-    margin-top:30px;
-    border-radius:20px;
-    border:1px solid #1e293b;
-    transition:0.4s;
+background:#111c34;
+padding:25px;
+margin-top:20px;
+border-radius:15px;
 }
 
-.section:hover{
-    transform:translateY(-5px);
-    box-shadow:0 0 25px rgba(255,0,0,0.2);
+h1{
+text-align:center;
+font-size:45px;
+color:#ff0000;
+margin-bottom:10px;
 }
 
-.section h2{
-    color:#ff4d4d;
-    margin-bottom:20px;
-    font-size:32px;
+h2{
+color:#38bdf8;
+margin-bottom:15px;
+}
+
+h3{
+margin-top:15px;
+color:#ff4d4d;
+}
+
+p,li{
+color:#e2e8f0;
+line-height:1.7;
 }
 
 pre{
-    background:#020617;
-    color:#38bdf8;
-    padding:20px;
-    border-radius:12px;
-    overflow:auto;
-    margin-top:20px;
+background:#020617;
+padding:15px;
+border-radius:10px;
+overflow:auto;
+margin-top:15px;
+color:#38bdf8;
 }
 
-p{
-    color:#e2e8f0;
+.icons{
+display:flex;
+justify-content:center;
+gap:12px;
+flex-wrap:wrap;
+margin-top:20px;
 }
 
-.contact-icons{
-    display:flex;
-    justify-content:center;
-    align-items:center;
-    flex-wrap:wrap;
-    gap:15px;
-    margin-top:20px;
+.icons img{
+transition:.3s;
 }
 
-.contact-icons a img{
-    transition:0.3s;
-}
-
-.contact-icons a img:hover{
-    transform:scale(1.1);
-}
-
-.contact-info{
-    margin-top:25px;
-    text-align:center;
-    font-size:18px;
-}
-
-.contact-info a{
-    color:#38bdf8;
-    text-decoration:none;
-}
-
-.tech-stack{
-    text-align:center;
-    margin-top:20px;
-}
-
-.project{
-    background:#0b1120;
-    padding:20px;
-    margin-top:20px;
-    border-radius:15px;
-    border-left:5px solid red;
-}
-
-.project h3{
-    color:#38bdf8;
-}
-
-ul{
-    padding-left:20px;
-    margin-top:10px;
-}
-
-li{
-    margin-top:8px;
+.icons img:hover{
+transform:scale(1.1);
 }
 
 .stats{
-    display:flex;
-    justify-content:center;
-    align-items:center;
-    flex-wrap:wrap;
-    gap:20px;
-    margin-top:20px;
+display:flex;
+justify-content:center;
+gap:20px;
+flex-wrap:wrap;
+margin-top:20px;
 }
 
 .stats img{
-    width:100%;
-    max-width:450px;
-    border-radius:15px;
+max-width:450px;
+width:100%;
+border-radius:10px;
+}
+
+ul{
+padding-left:20px;
+margin-top:10px;
 }
 
 blockquote{
-    background:#020617;
-    padding:20px;
-    border-left:5px solid red;
-    border-radius:10px;
-    font-size:20px;
-    color:#f8fafc;
+background:#020617;
+padding:15px;
+border-left:4px solid red;
+border-radius:10px;
 }
 
 footer{
-    text-align:center;
-    padding:40px 0;
+text-align:center;
+margin-top:30px;
 }
 
 @media(max-width:768px){
-
-    h1{
-        font-size:38px;
-    }
-
-    .main-heading{
-        font-size:18px;
-    }
-
-    .section h2{
-        font-size:26px;
-    }
-
+h1{font-size:32px;}
 }
-
 </style>
-
 </head>
 
 <body>
 
 <div class="container">
 
-    <!-- HERO SECTION -->
+<h1>⚡ MIRZA UZAIR BAIG ⚡</h1>
 
-    <h1>⚡ MIRZA UZAIR BAIG ⚡</h1>
+<p align="center">
+Frontend Developer • JavaScript Developer • Firebase Enthusiast
+</p>
 
-    <h3 class="main-heading">
-        Frontend Developer • JavaScript Developer • Firebase Enthusiast
-    </h3>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Frontend+Developer;JavaScript+%26+Firebase+Developer;Learning+Full+Stack+Development">
+</p>
 
-    <p align="center">
-        <img 
-        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=850&lines=Building+Modern+Web+Experiences;JavaScript+%26+Firebase+Developer;Currently+Learning+Full+Stack+Development;Passionate+About+Clean+UI+Design;Creating+Professional+Web+Applications"
-        />
-    </p>
-
-    <!-- ABOUT -->
-
-    <div class="section">
-
-        <h2>💫 About Me</h2>
+<div class="section">
+<h2>💫 About Me</h2>
 
 <pre>
 const uzair = {
-
-    role: "Frontend Developer",
-
-    technologies: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "Firebase"
-    ],
-
-    currentlyLearning: [
-        "Full Stack Development",
-        "Advanced JavaScript",
-        "REST APIs"
-    ],
-
-    portfolioGoal:
-    "Building Professional & Modern Web Applications"
-
-};
+role:"Frontend Developer",
+skills:["HTML","CSS","JavaScript","Firebase"],
+learning:["Full Stack","APIs","Backend"]
+}
 </pre>
 
-        <p>
-            💻 Passionate about creating responsive and interactive web applications with clean UI and smooth user experiences.
-            <br><br>
+<p>
+💻 Passionate about building responsive and modern web applications.<br>
+🚀 Currently learning Full Stack Development and backend concepts.<br>
+⚡ Love creating clean UI and interactive projects.
+</p>
+</div>
 
-            🚀 Currently learning Full Stack Development and improving real-world development skills through modern projects.
-            <br><br>
+<div class="section">
+<h2>🌐 Contact</h2>
 
-            ⚡ Strong interest in JavaScript logic, Firebase integration, backend concepts, and creative UI design.
-        </p>
+<div class="icons">
 
-    </div>
+<a href="mailto:mirzauzair448@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-    <!-- CONTACT -->
+<a href="https://github.com/uzairBaig395" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-    <div class="section">
+<a href="https://www.linkedin.com/in/uzair-baig-1699563ab/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-        <h2>🌐 Contact Information</h2>
+<a href="https://www.facebook.com/profile.php?id=61584799112383" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+</a>
 
-        <div class="contact-icons">
+<a href="tel:03072274835">
+<img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
 
-            <!-- Gmail -->
+</div>
+</div>
 
-            <a href="mailto:mirzauzair448@gmail.com">
-                <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-            </a>
+<div class="section">
+<h2>🛠️ Tech Stack</h2>
 
-            <!-- GitHub -->
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,firebase,git,github,vscode">
+</p>
+</div>
 
-            <a href="https://github.com/uzairBaig395" target="_blank">
-                <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
-            </a>
+<div class="section">
+<h2>🚀 Projects</h2>
 
-            <!-- LinkedIn -->
+<h3>🔥 Firebase Todo App</h3>
+<ul>
+<li>Firestore Integration</li>
+<li>Realtime Data Handling</li>
+<li>Responsive UI</li>
+</ul>
 
-            <a href="https://www.linkedin.com/in/uzair-baig-1699563ab/" target="_blank">
-                <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-            </a>
+<h3>🛒 Ecommerce Projects</h3>
+<ul>
+<li>Modern Layouts</li>
+<li>Interactive Components</li>
+<li>Responsive Design</li>
+</ul>
 
-            <!-- Facebook -->
+<h3>🎮 JavaScript Games</h3>
+<ul>
+<li>DOM Manipulation</li>
+<li>Game Logic Building</li>
+<li>Dynamic Features</li>
+</ul>
 
-            <a href="https://www.facebook.com/profile.php?id=61584799112383" target="_blank">
-                <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-            </a>
+</div>
 
-            <!-- Phone -->
+<div class="section">
+<h2>📊 GitHub Analytics</h2>
 
-            <a href="tel:03072274835">
-                <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-            </a>
+<div class="stats">
 
-        </div>
+<img src="https://github-readme-stats.vercel.app/api?username=uzairBaig395&show_icons=true&theme=radical&hide_border=true">
 
-        <div class="contact-info">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzairBaig395&layout=compact&theme=radical&hide_border=true">
 
-            📧 Email:
-            <a href="mailto:mirzauzair448@gmail.com">
-                mirzauzair448@gmail.com
-            </a>
+</div>
 
-            <br><br>
+<p align="center" style="margin-top:20px;">
+<img src="https://streak-stats.demolab.com?user=uzairBaig395&theme=radical&hide_border=true">
+</p>
 
-            📱 Phone:
-            <a href="tel:03072274835">
-                03072274835
-            </a>
+</div>
 
-            <br><br>
+<div class="section">
+<h2>🎯 Goals</h2>
 
-            💻 GitHub:
-            <a href="https://github.com/uzairBaig395" target="_blank">
-                github.com/uzairBaig395
-            </a>
+<ul>
+<li>Become Full Stack Developer</li>
+<li>Build Professional Projects</li>
+<li>Learn Backend Deeply</li>
+<li>Contribute To Open Source</li>
+</ul>
 
-            <br><br>
+</div>
 
-            🔗 LinkedIn:
-            <a href="https://www.linkedin.com/in/uzair-baig-1699563ab/" target="_blank">
-                Uzair Baig
-            </a>
+<div class="section">
+<h2>⚡ Developer Mindset</h2>
 
-            <br><br>
+<blockquote>
+“Consistency and continuous learning build great developers.”
+</blockquote>
 
-            📘 Facebook:
-            <a href="https://www.facebook.com/profile.php?id=61584799112383" target="_blank">
-                Facebook Profile
-            </a>
+</div>
 
-        </div>
+<footer>
 
-    </div>
+<img src="https://komarev.com/ghpvc/?username=Uzairbaig395&color=blue&style=for-the-badge">
 
-    <!-- TECH STACK -->
+<br><br>
 
-    <div class="section">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer">
 
-        <h2>🛠️ Tech Stack</h2>
-
-        <div class="tech-stack">
-
-            <img src="https://skillicons.dev/icons?i=html,css,javascript,firebase,git,github,vscode" />
-
-        </div>
-
-    </div>
-
-    <!-- PROJECTS -->
-
-    <div class="section">
-
-        <h2>🚀 Featured Projects</h2>
-
-        <div class="project">
-
-            <h3>🔥 Firebase Todo Application</h3>
-
-            <ul>
-                <li>Firebase Firestore Integration</li>
-                <li>Real-time Data Handling</li>
-                <li>Responsive Modern UI</li>
-                <li>Dynamic Task Management</li>
-            </ul>
-
-        </div>
-
-        <div class="project">
-
-            <h3>🛒 Ecommerce Web Projects</h3>
-
-            <ul>
-                <li>Modern Responsive Layouts</li>
-                <li>Product Showcase UI</li>
-                <li>Interactive Components</li>
-                <li>Clean Design Principles</li>
-            </ul>
-
-        </div>
-
-        <div class="project">
-
-            <h3>🎮 JavaScript Game Projects</h3>
-
-            <ul>
-                <li>DOM Manipulation</li>
-                <li>JavaScript Logic Building</li>
-                <li>Interactive User Experience</li>
-                <li>Dynamic Gameplay Features</li>
-            </ul>
-
-        </div>
-
-    </div>
-
-    <!-- GITHUB STATS -->
-
-    <div class="section">
-
-        <h2>📊 GitHub Analytics</h2>
-
-        <div class="stats">
-
-            <img src="https://github-readme-stats.vercel.app/api?username=uzairBaig395&show_icons=true&theme=radical&hide_border=true"/>
-
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzairBaig395&layout=compact&theme=radical&hide_border=true"/>
-
-        </div>
-
-    </div>
-
-    <!-- STREAK -->
-
-    <div class="section">
-
-        <h2>🔥 Contribution Streak</h2>
-
-        <p align="center">
-
-            <img src="https://streak-stats.demolab.com?user=uzairBaig395&theme=radical&hide_border=true"/>
-
-        </p>
-
-    </div>
-
-    <!-- CURRENT FOCUS -->
-
-    <div class="section">
-
-        <h2>🧠 Current Focus</h2>
-
-        <ul>
-            <li>Full Stack Development</li>
-            <li>Advanced JavaScript Concepts</li>
-            <li>Firebase Authentication</li>
-            <li>REST APIs</li>
-            <li>UI/UX Improvements</li>
-            <li>Clean & Scalable Web Development</li>
-        </ul>
-
-    </div>
-
-    <!-- GOALS -->
-
-    <div class="section">
-
-        <h2>🎯 2026 Goals</h2>
-
-        <ul>
-            <li>Become a Full Stack Developer</li>
-            <li>Build Professional Portfolio Projects</li>
-            <li>Learn Backend Development Deeply</li>
-            <li>Contribute To Open Source</li>
-            <li>Create Full Stack Applications</li>
-        </ul>
-
-    </div>
-
-    <!-- MINDSET -->
-
-    <div class="section">
-
-        <h2>⚡ Developer Mindset</h2>
-
-        <blockquote>
-            “Consistency and continuous learning build great developers.”
-        </blockquote>
-
-    </div>
-
-    <!-- VISITOR COUNTER -->
-
-    <div class="section">
-
-        <h2>👀 Profile Visitors</h2>
-
-        <p align="center">
-
-            <img src="https://komarev.com/ghpvc/?username=Uzairbaig395&color=blue&style=for-the-badge"/>
-
-        </p>
-
-    </div>
-
-    <!-- FOOTER -->
-
-    <footer>
-
-        <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
-
-    </footer>
+</footer>
 
 </div>
 
