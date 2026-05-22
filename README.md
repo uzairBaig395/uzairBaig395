@@ -1,247 +1,124 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-
-<body bgcolor="#0f172a" text="white">
-
-<!-- HERO SECTION -->
-
-<center>
-
-<h1 style="color:red; font-size:60px;">
-⚡ MIRZA UZAIR BAIG ⚡
+<h1 align="center">
+  Mirza Uzair Baig
 </h1>
 
-<h2 style="font-size:32px;">
-Frontend Developer • JavaScript Developer • Firebase Enthusiast
-</h2>
-
-<h3 style="font-size:26px; color:#38bdf8;">
-Building Modern Web Applications
+<h3 align="center">
+  Frontend Developer | JavaScript Developer | Firebase Enthusiast
 </h3>
 
-<br>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Frontend+Developer;JavaScript+Developer;Firebase+Developer;Learning+Full+Stack+Development;Building+Modern+Web+Applications" />
+</p>
 
-<a href="mailto:mirzauzair448@gmail.com" style="color:white; text-decoration:none; font-size:20px;">
-📧 Gmail
+---
+
+## 🚀 About Me
+
+- 🔭 Currently working on **Modern Web Applications**
+- 🌱 Learning **Full Stack Development & REST APIs**
+- 💬 Ask me about **HTML, CSS, JavaScript, Firebase**
+- ⚡ Passionate about **Clean UI & Interactive Design**
+- 🎯 Goal: **Become a Full Stack Developer**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="mailto:mirzauzair448@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/uzairBaig395" target="_blank" style="color:white; text-decoration:none; font-size:20px;">
-💻 GitHub
+<a href="https://github.com/uzairBaig395">
+  <img src="https://skillicons.dev/icons?i=github" width="50"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/uzair-baig-1699563ab/" target="_blank" style="color:white; text-decoration:none; font-size:20px;">
-🔗 LinkedIn
+<a href="https://www.linkedin.com/in/uzair-baig-1699563ab/">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.facebook.com/profile.php?id=61584799112383" target="_blank" style="color:white; text-decoration:none; font-size:20px;">
-📘 Facebook
+<a href="https://www.facebook.com/profile.php?id=61584799112383">
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="50"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="tel:03072274835" style="color:white; text-decoration:none; font-size:20px;">
-📱 03072274835
-</a>
-
-</center>
-
-<hr color="red">
-
-<!-- ABOUT -->
-
-<h2 style="color:#38bdf8; font-size:35px;">
-💫 About Me
-</h2>
-
-<pre style="color:#38bdf8; font-size:18px;">
-const uzair = {
-
- role: "Frontend Developer",
-
- skills: [
-  "HTML",
-  "CSS",
-  "JavaScript",
-  "Firebase"
- ],
-
- learning: [
-  "Full Stack",
-  "REST APIs",
-  "Backend"
- ]
-
-}
-</pre>
-
-<p style="font-size:20px; line-height:35px;">
-
-💻 Passionate about building responsive and modern web applications.
-
-<br><br>
-
-🚀 Currently learning Full Stack Development and backend concepts.
-
-<br><br>
-
-⚡ Love creating clean UI, modern interfaces, and interactive projects.
 
 </p>
 
-<hr color="red">
+---
 
-<!-- TECH STACK -->
+## 🛠️ Languages & Tools
 
-<h2 style="color:#38bdf8; font-size:35px;">
-🛠️ Tech Stack
-</h2>
+<p align="left">
 
-<center>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,firebase,git,github,vscode" />
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,firebase,git,github,vscode">
+</p>
 
-</center>
+---
 
-<hr color="red">
+## 📊 GitHub Stats
 
-<!-- PROJECTS -->
+<p align="center">
 
-<h2 style="color:#38bdf8; font-size:35px;">
-🚀 Featured Projects
-</h2>
+<img src="https://github-readme-stats.vercel.app/api?username=uzairBaig395&show_icons=true&theme=radical&hide_border=true" height="180em"/>
 
-<h3 style="color:red; font-size:28px;">
-🔥 Firebase Todo App
-</h3>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzairBaig395&layout=compact&theme=radical&hide_border=true" height="180em"/>
 
-<ul style="font-size:20px; line-height:35px;">
-<li>Firestore Integration</li>
-<li>Realtime Data Handling</li>
-<li>Responsive UI Design</li>
-<li>Dynamic Task Management</li>
-</ul>
+</p>
 
-<h3 style="color:red; font-size:28px;">
-🛒 Ecommerce Projects
-</h3>
+---
 
-<ul style="font-size:20px; line-height:35px;">
-<li>Modern Responsive Layouts</li>
-<li>Interactive Components</li>
-<li>Clean User Experience</li>
-<li>Product Showcase UI</li>
-</ul>
+## 🔥 GitHub Streak
 
-<h3 style="color:red; font-size:28px;">
-🎮 JavaScript Games
-</h3>
+<p align="center">
 
-<ul style="font-size:20px; line-height:35px;">
-<li>DOM Manipulation</li>
-<li>JavaScript Logic Building</li>
-<li>Interactive Gameplay</li>
-<li>Dynamic Features</li>
-</ul>
+<img src="https://streak-stats.demolab.com?user=uzairBaig395&theme=radical&hide_border=true"/>
 
-<hr color="red">
+</p>
 
-<!-- GITHUB STATS -->
+---
 
-<h2 style="color:#38bdf8; font-size:35px;">
-📊 GitHub Analytics
-</h2>
+## 🚀 Featured Projects
 
-<center>
+### 🔥 Firebase Todo App
+- Realtime Firestore Database
+- Dynamic Task Management
+- Responsive UI
 
-<img 
-src="https://github-readme-stats.vercel.app/api?username=uzairBaig395&show_icons=true&theme=radical&hide_border=true"
-height="180"
-/>
+### 🛒 Ecommerce Projects
+- Product Showcase UI
+- Responsive Layouts
+- Interactive Components
 
-<br><br>
+### 🎮 JavaScript Games
+- DOM Manipulation
+- JavaScript Logic
+- Interactive Gameplay
 
-<img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzairBaig395&layout=compact&theme=radical&hide_border=true"
-height="180"
-/>
+---
 
-<br><br>
+## 📈 Contribution Graph
 
-<img 
-src="https://streak-stats.demolab.com?user=uzairBaig395&theme=radical&hide_border=true"
-/>
+<p align="center">
 
-</center>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=uzairBaig395&theme=react-dark&hide_border=true"/>
 
-<hr color="red">
+</p>
 
-<!-- GOALS -->
+---
 
-<h2 style="color:#38bdf8; font-size:35px;">
-🎯 2026 Goals
-</h2>
+## 👀 Profile Views
 
-<ul style="font-size:20px; line-height:35px;">
+<p align="center">
 
-<li>Become a Full Stack Developer</li>
+<img src="https://komarev.com/ghpvc/?username=uzairBaig395&label=Profile%20Views&color=red&style=for-the-badge"/>
 
-<li>Build Professional Portfolio Projects</li>
+</p>
 
-<li>Learn Backend Development Deeply</li>
+---
 
-<li>Contribute To Open Source</li>
+<p align="center">
 
-<li>Create Modern Full Stack Applications</li>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
 
-</ul>
-
-<hr color="red">
-
-<!-- MINDSET -->
-
-<h2 style="color:#38bdf8; font-size:35px;">
-⚡ Developer Mindset
-</h2>
-
-<blockquote style="font-size:24px; color:#e2e8f0;">
-
-"Consistency and continuous learning build great developers."
-
-</blockquote>
-
-<hr color="red">
-
-<!-- FOOTER -->
-
-<center>
-
-<h2 style="color:#38bdf8;">
-👀 Profile Visitors
-</h2>
-
-<img 
-src="https://komarev.com/ghpvc/?username=Uzairbaig395&color=blue&style=for-the-badge"
->
-
-<br><br>
-
-<img 
-src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=140&section=footer"
-/>
-
-</center>
-
-</body>
-
-</html>
+</p>
