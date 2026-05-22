@@ -1,5 +1,5 @@
 <h1 align="center">
-  Mirza Uzair Baig
+   Mirza Uzair Baig
 </h1>
 
 <h3 align="center">
@@ -40,6 +40,10 @@
 
 <a href="https://www.facebook.com/profile.php?id=61584799112383">
   <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="50"/>
+</a>
+
+<a href="https://uzairbaig395.github.io/Portfolio-repo/">
+  <img src="https://img.icons8.com/fluency/48/domain.png" width="50"/>
 </a>
 
 </p>
