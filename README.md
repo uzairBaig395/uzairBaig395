@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -19,35 +20,43 @@
 Frontend Developer • JavaScript Developer • Firebase Enthusiast
 </h2>
 
-<img 
-src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Frontend+Developer;JavaScript+Developer;Firebase+Developer;Learning+Full+Stack+Development;Building+Modern+Web+Applications"
->
+<h3 style="font-size:26px; color:#38bdf8;">
+Building Modern Web Applications
+</h3>
 
-<br><br><br>
+<br>
 
-<a href="mailto:mirzauzair448@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="mailto:mirzauzair448@gmail.com" style="color:white; text-decoration:none; font-size:20px;">
+📧 Gmail
 </a>
 
-<a href="https://github.com/uzairBaig395">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white">
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/uzairBaig395" target="_blank" style="color:white; text-decoration:none; font-size:20px;">
+💻 GitHub
 </a>
 
-<a href="https://www.linkedin.com/in/uzair-baig-1699563ab/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/uzair-baig-1699563ab/" target="_blank" style="color:white; text-decoration:none; font-size:20px;">
+🔗 LinkedIn
 </a>
 
-<a href="https://www.facebook.com/profile.php?id=61584799112383">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.facebook.com/profile.php?id=61584799112383" target="_blank" style="color:white; text-decoration:none; font-size:20px;">
+📘 Facebook
 </a>
 
-<a href="tel:03072274835">
-<img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+&nbsp;&nbsp;&nbsp;
+
+<a href="tel:03072274835" style="color:white; text-decoration:none; font-size:20px;">
+📱 03072274835
 </a>
 
 </center>
 
-<hr>
+<hr color="red">
 
 <!-- ABOUT -->
 
@@ -90,7 +99,7 @@ const uzair = {
 
 </p>
 
-<hr>
+<hr color="red">
 
 <!-- TECH STACK -->
 
@@ -104,7 +113,7 @@ const uzair = {
 
 </center>
 
-<hr>
+<hr color="red">
 
 <!-- PROJECTS -->
 
@@ -145,7 +154,7 @@ const uzair = {
 <li>Dynamic Features</li>
 </ul>
 
-<hr>
+<hr color="red">
 
 <!-- GITHUB STATS -->
 
@@ -160,6 +169,8 @@ src="https://github-readme-stats.vercel.app/api?username=uzairBaig395&show_icons
 height="180"
 />
 
+<br><br>
+
 <img 
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzairBaig395&layout=compact&theme=radical&hide_border=true"
 height="180"
@@ -173,7 +184,7 @@ src="https://streak-stats.demolab.com?user=uzairBaig395&theme=radical&hide_borde
 
 </center>
 
-<hr>
+<hr color="red">
 
 <!-- GOALS -->
 
@@ -195,7 +206,7 @@ src="https://streak-stats.demolab.com?user=uzairBaig395&theme=radical&hide_borde
 
 </ul>
 
-<hr>
+<hr color="red">
 
 <!-- MINDSET -->
 
@@ -209,11 +220,15 @@ src="https://streak-stats.demolab.com?user=uzairBaig395&theme=radical&hide_borde
 
 </blockquote>
 
-<hr>
+<hr color="red">
 
 <!-- FOOTER -->
 
 <center>
+
+<h2 style="color:#38bdf8;">
+👀 Profile Visitors
+</h2>
 
 <img 
 src="https://komarev.com/ghpvc/?username=Uzairbaig395&color=blue&style=for-the-badge"
@@ -228,4 +243,5 @@ src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=140&s
 </center>
 
 </body>
+
 </html>
