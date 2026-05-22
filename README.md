@@ -3,7 +3,6 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Mirza Uzair Baig</title>
 </head>
 
 <body bgcolor="#0f172a" text="white">
@@ -18,33 +17,7 @@ Frontend Developer • JavaScript Developer • Firebase Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Frontend+Developer;JavaScript+Developer;Learning+Full+Stack+Development">
 
-</center>
-
-<hr>
-
-<h2 style="color:#38bdf8;">💫 About Me</h2>
-
-<pre style="color:#38bdf8;">
-const uzair = {
- role: "Frontend Developer",
- skills: ["HTML","CSS","JavaScript","Firebase"],
- learning: ["Full Stack","APIs","Backend"]
-}
-</pre>
-
-<p>
-💻 Passionate about building responsive and modern web applications.
 <br><br>
-🚀 Currently learning Full Stack Development and backend concepts.
-<br><br>
-⚡ Love creating clean UI and interactive projects.
-</p>
-
-<hr>
-
-<h2 style="color:#38bdf8;">🌐 Contact</h2>
-
-<center>
 
 <a href="mailto:mirzauzair448@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white">
@@ -67,6 +40,26 @@ const uzair = {
 </a>
 
 </center>
+
+<hr>
+
+<h2 style="color:#38bdf8;">💫 About Me</h2>
+
+<pre style="color:#38bdf8;">
+const uzair = {
+ role: "Frontend Developer",
+ skills: ["HTML","CSS","JavaScript","Firebase"],
+ learning: ["Full Stack","APIs","Backend"]
+}
+</pre>
+
+<p>
+💻 Passionate about building responsive and modern web applications.
+<br><br>
+🚀 Currently learning Full Stack Development and backend concepts.
+<br><br>
+⚡ Love creating clean UI and interactive projects.
+</p>
 
 <hr>
 
