@@ -1,21 +1,35 @@
-<h1 align="center">
-   Mirza Uzair Baig
-</h1>
+<div align="center">
 
-<h3 align="center">
-  Frontend Developer | JavaScript Developer | Firebase Enthusiast
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mirza%20Uzair%20Baig&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20JavaScript%20Enthusiast%20%7C%20Firebase%20Developer&descAlignY=51&descAlign=50"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Frontend+Developer;JavaScript+Developer;Firebase+Developer;Learning+Full+Stack+Development;Building+Modern+Web+Applications" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=🚀+Frontend+Developer;⚡+JavaScript+Enthusiast;🔥+Firebase+Developer;🌱+Learning+Full+Stack+Development;💡+Building+Modern+Web+Applications" alt="Typing SVG" />
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=uzairBaig395&label=Profile+Views&color=6E40C9&style=for-the-badge)](https://github.com/uzairBaig395)
+[![GitHub followers](https://img.shields.io/github/followers/uzairBaig395?label=Followers&style=for-the-badge&color=6E40C9)](https://github.com/uzairBaig395?tab=followers)
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
+
+```javascript
+const uzairBaig = {
+  name: "Mirza Uzair Baig",
+  role: "Frontend Developer",
+  location: "Pakistan 🇵🇰",
+  currentFocus: "Full Stack Development & REST APIs",
+  skills: ["HTML", "CSS", "JavaScript", "Firebase", "Git"],
+  goal: "Become a Full Stack Developer 🎯",
+  passions: ["Clean UI", "Interactive Design", "Open Source"],
+  funFact: "I turn ☕ into code!"
+};
+```
 
 - 🔭 Currently working on **Modern Web Applications**
-- 🌱 Learning **Full Stack Development & REST APIs**
+- 🌱 Deepening expertise in **Full Stack Development & REST APIs**
 - 💬 Ask me about **HTML, CSS, JavaScript, Firebase**
 - ⚡ Passionate about **Clean UI & Interactive Design**
 - 🎯 Goal: **Become a Full Stack Developer**
@@ -24,105 +38,81 @@
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<div align="left">
 
-<a href="mailto:mirzauzair448@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
-</a>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirzauzair448@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uzairBaig395)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uzair-baig-1699563ab/)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Uzairbaig3x)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mirza_uzair_baig3x/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://uzairbaig395.github.io/Portfolio-repo/)
 
-<a href="https://github.com/uzairBaig395">
-  <img src="https://skillicons.dev/icons?i=github" width="50"/>
-</a>
-
-<a href="https://www.linkedin.com/in/uzair-baig-1699563ab/">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
-</a>
-
-<a href="https://www.facebook.com/profile.php?id=61584799112383">
-  <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="50"/>
-</a>
-
-<a href="https://uzairbaig395.github.io/Portfolio-repo/">
-  <img src="https://img.icons8.com/fluency/48/domain.png" width="50"/>
-</a>
-
-</p>
+</div>
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Tech Stack
 
-<p align="left">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,firebase,git,github,vscode" />
+### Languages & Markup
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-</p>
+### Backend & Database
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=uzairBaig395&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180em" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzairBaig395&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180em" alt="Top Languages"/>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=uzairBaig395&show_icons=true&theme=radical&hide_border=true" height="180em"/>
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzairBaig395&layout=compact&theme=radical&hide_border=true" height="180em"/>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=uzairBaig395&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+</div>
 
-</p>
+<br/>
 
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=uzairBaig395&theme=radical&hide_border=true"/>
-
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uzairBaig395&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔥 Firebase Todo App
-- Realtime Firestore Database
-- Dynamic Task Management
-- Responsive UI
+<div align="center">
 
-### 🛒 Ecommerce Projects
-- Product Showcase UI
-- Responsive Layouts
-- Interactive Components
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🔥 **Firebase Todo App** | Realtime task management with Firestore — dynamic CRUD, responsive UI | HTML · CSS · JS · Firebase |
+| 🛒 **Ecommerce Projects** | Product showcase UIs with responsive layouts and interactive components | HTML · CSS · JavaScript |
+| 🎮 **JavaScript Games** | DOM-based interactive games — pure JS logic & gameplay | HTML · CSS · JavaScript |
 
-### 🎮 JavaScript Games
-- DOM Manipulation
-- JavaScript Logic
-- Interactive Gameplay
+</div>
 
 ---
 
-## 📈 Contribution Graph
+## 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=uzairBaig395&theme=react-dark&hide_border=true"/>
-
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=uzairBaig395&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+</div>
 
 ---
 
-## 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=uzairBaig395&label=Profile%20Views&color=red&style=for-the-badge"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
-
-</p>
+## 📈 Coding Journey
