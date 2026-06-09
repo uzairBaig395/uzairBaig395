@@ -183,3 +183,5 @@ const uzairBaig = {
 
 </div>
 ```
+
+> **Note:** In the About Me section, the closing triple backticks after the JavaScript block — make sure they look exactly like ` ``` ` with no spaces. I had to add a space to show them here without breaking the code block display. When you paste into GitHub, it will work perfectly.
