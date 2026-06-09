@@ -168,3 +168,17 @@ const uzairBaig = {
 <div align="center">
 
 ### ⚡ Mindset
+
+> *"1% better every day — that's 37x better by the end of the year."*
+>
+> **— The Compound Effect**
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=uzairBaig395&label=Profile+Views&color=00D4FF&style=for-the-badge)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d0d0d&height=130&section=footer"/>
+
+</div>
