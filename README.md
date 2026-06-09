@@ -22,7 +22,7 @@ const uzairBaig = {
   goal     : "Become a Full Stack Developer 🎯",
   status   : "Open to opportunities 🟢"
 };
-```
+` ``
 
 - 🔭 Currently building **Modern Web Applications**
 - 🌱 Leveling up in **Full Stack Development & REST APIs**
@@ -156,7 +156,7 @@ const uzairBaig = {
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uzairBaig395)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uzair-baig-1699563ab/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Uzairbaig3x)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mirza_uzair_baig3x/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mirza_uzair_baig5x/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=black)](https://uzairbaig395.github.io/Portfolio-repo/)
 
 </div>
@@ -182,3 +182,4 @@ const uzairBaig = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d0d0d&height=130&section=footer"/>
 
 </div>
+```
