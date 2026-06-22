@@ -1,8 +1,59 @@
 <div align="center">
 
-<!-- ════════ Animated Loading Screen Preview (same as the live site) ════════ -->
-<svg width="640" height="380" viewBox="0 0 640 380" xmlns="http://www.w3.org/2000/svg">
-  <rect width="640" height="380" fill="#ffffff"/>
+# Hi 👋, I'm Mirza Uzair Baig
+### Full-Stack Developer in Training • Self-Taught Builder • Karachi, Pakistan
+
+I build digital products that scale. From concept to deployment, I transform ideas into robust, high-performance web applications.
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+in+Training;Self-Taught+Builder;Building+Interactive+UIs;Open+to+Opportunities" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Double&weight=500&size=19&pause=1000&color=FFFFFF&repeat=false&width=435&separator=%3C&lines=console.log('Write+code+that+matters');" alt="Typing SVG" />
+
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+<table>
+<tr>
+<td>
+
+🛠️ **Core Stack:** JavaScript (ES6+) • Firebase / Firestore • HTML5 / CSS3
+
+</td>
+</tr>
+<tr>
+<td>
+
+⚡ **Mindset:** Ship fast, iterate faster, pixel-level detail
+
+</td>
+</tr>
+<tr>
+<td>
+
+🎯 **Philosophy:** Code with purpose, build with passion
+
+</td>
+</tr>
+</table>
+
+What started as curiosity turned into **23+ projects** built entirely from scratch. I care about real-time data, optimized configurations, and writing clean, maintainable systems.
+
+🌱 Currently expanding my expertise and **actively learning Full-Stack Development** to build comprehensive end-to-end applications.
+
+📫 Reach me at **mirzauzair448@gmail.com**
+
+</td>
+<td width="40%" valign="top">
+
+<svg width="100%" height="180" viewBox="0 0 640 380" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="380" fill="#0d1117" rx="10"/>
   <g transform="translate(320,160)">
     <circle r="58" fill="none" stroke="rgba(3,105,161,0.15)" stroke-width="3"/>
     <g>
@@ -20,9 +71,9 @@
       <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.3;1" dur="1.2s" repeatCount="indefinite"/>
     </text>
   </g>
-  <text x="320" y="278" text-anchor="middle" font-family="'Courier New', monospace" font-size="13" letter-spacing="3" fill="#9aa0a8">INITIALIZING PORTFOLIO</text>
-  <rect x="240" y="298" width="160" height="3" rx="1.5" fill="#eef0f2"/>
-  <rect x="240" y="298" height="3" rx="1.5" fill="url(#barGradient)">
+  <text x="320" y="278" text-anchor="middle" font-family="'Courier New', monospace" font-size="14" font-weight="bold" letter-spacing="3" fill="#9aa0a8">INITIALIZING PORTFOLIO</text>
+  <rect x="240" y="298" width="160" height="4" rx="2" fill="#161b22"/>
+  <rect x="240" y="298" height="4" rx="2" fill="url(#barGradient)">
     <animate attributeName="width" values="0;160;0" keyTimes="0;0.6;1" dur="3s" repeatCount="indefinite"/>
   </rect>
   <defs>
@@ -33,83 +84,79 @@
   </defs>
 </svg>
 
-<em>👆 The exact "U" loading animation that plays when the site first opens</em>
-
-<br><br>
-
-# Mirza Uzair Baig
-### Frontend Developer · Self-Taught Builder · Karachi, Pakistan
-
-[![Email](https://img.shields.io/badge/Email-mirzauzair448%40gmail.com-0369a1?style=flat-square&logo=gmail&logoColor=white)](mailto:mirzauzair448@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-uzairBaig395-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/uzairBaig395)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uzair-baig-1699563ab/)
-[![X](https://img.shields.io/badge/X-Uzairbaig3x-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Uzairbaig3x)
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-## 👋 About Me
+## 🛠️ Tech Stack & Tools
 
-I'm a self-taught developer from **Karachi, Pakistan**, passionate about building modern, interactive web systems with clean, optimized configurations.
-
-What started as curiosity turned into **23+ projects** built entirely from scratch — from Firebase-powered real-time sync systems to multi-tiered dynamic API interfaces. I care about pixel-level detail, real-time data (Firebase/Firestore), and writing code that's actually maintainable — not just "working."
-
-I'm currently **open to work and freelance opportunities**.
-
----
-
-## 🛠️ Skills & Tools
-
-| Category | Stack |
-|---|---|
-| **Core Language** | JavaScript (ES6+) — DOM manipulation, async routines, event structures, LocalStorage, modular architecture |
-| **Cloud & Data** | Firebase & Firestore — real-time syncing, database streams, REST API integrations |
-| **UI & Layouts** | HTML5 & CSS3 — semantic markup, responsive interfaces, Flexbox/Grid, pixel-perfect styling |
-| **Dev Workflow** | Git / GitHub, debugging & diagnostics tooling, version control across branches |
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+</p>
 
 ---
 
 ## 💼 Featured Projects
 
-| Project | Description | Tags | Code |
-|---|---|---|---|
-| **Authentication Todo App** | Full-stack Firebase app with secure sign-up & login, a personal todo list per account, and real-time Firestore syncing — private per user. | `Firebase Auth` `Firestore` `JavaScript` | [View](https://github.com/uzairBaig395/Portfolio-repo/tree/main/Projects/Authentication%20Todo) |
-| **Nascom Website** ⭐ | A complete, fully responsive multi-page website built from scratch — polished UI layouts, structured navigation, production-ready architecture. | `HTML5` `CSS3` `JavaScript` | [View](https://github.com/uzairBaig395/Portfolio-repo/tree/main/Projects/nascom-website) |
-| **Todo App with Firebase** | A full-featured todo app with real-time Firestore database sync — add, delete, and manage tasks live in the cloud. | `Firestore` `HTML/CSS` | [View](https://github.com/uzairBaig395/Portfolio-repo/tree/main/Projects/Todo%20list%20with%20firebase) |
-| **Weather App** | Live weather application fetching real-time data from a weather API, with city search. | `REST API` `Fetch` | [View](https://github.com/uzairBaig395/Portfolio-repo/tree/main/Projects/Weather%20App) |
-| **Student Management System** | Manage student records with full add, edit, delete, and search — synced to client-side memory. | `LocalStorage` `DOM` | [View](https://github.com/uzairBaig395/Portfolio-repo/tree/main/Projects/Student%20management) |
-| **Todo with LocalStorage** | A persistent todo list that saves tasks locally — entries survive page refreshes. | `JavaScript` `DOM API` | [View](https://github.com/uzairBaig395/Portfolio-repo/tree/main/Projects/Todo%20list%20with%20local%20storage) |
-| **Advanced Calculator** | A fully-featured calculator with keyboard input support and real-time calculation feeds. | `DOM UI` `HTML/CSS` | [View](https://github.com/uzairBaig395/Portfolio-repo/tree/main/Projects/Calcultaor) |
-| **Color Matching Game** | An interactive browser matching grid built on a precise timing/frame loop. | `Game Loop` `Events` | [View](https://github.com/uzairBaig395/Portfolio-repo/tree/main/Projects/Color%20matching) |
-| **Bank Balance Tracker** | Tracks banking actions and micro-debits with automated live sum calculations. | `LocalStorage` `Logic` | [View](https://github.com/uzairBaig395/Portfolio-repo/tree/main/Projects/Bank%20balance) |
-| **Table Generator** | Dynamically computes layout values to generate clean HTML table grids. | `JavaScript` `HTML/CSS` | [View](https://github.com/uzairBaig395/Portfolio-repo/tree/main/Projects/Table%20Generator) |
+| Project | Description | Tags | Source Code |
+| :--- | :--- | :--- | :---: |
+| **Authentication Todo App** | Full-stack Firebase app with secure sign-up, personal accounts, and live cloud sync. | `Firebase Auth` `Firestore` `JS` | [🚀 View](https://github.com/uzairBaig395/Portfolio-repo/tree/main/Projects/Authentication%20Todo) |
+| **Nascom Website ⭐** | Fully responsive multi-page corporate web layout built from scratch. | `HTML5` `CSS3` `JavaScript` | [🚀 View](https://github.com/uzairBaig395/Portfolio-repo/tree/main/Projects/nascom-website) |
+| **Todo App with Firebase** | Task organizer connected directly to real-time cloud data pipelines. | `Firestore` `HTML5` `CSS3` | [🚀 View](https://github.com/uzairBaig395/Portfolio-repo/tree/main/Projects/Todo%20list%20with%20firebase) |
+| **Weather App** | Live client dashboard parsing external asynchronous REST API weather updates. | `REST API` `Fetch API` `UX` | [🚀 View](https://github.com/uzairBaig395/Portfolio-repo/tree/main/Projects/Weather%20App) |
+| **Student Management** | Persistent tracking application utilizing client-side structures. | `LocalStorage` `DOM UI` | [🚀 View](https://github.com/uzairBaig395/Portfolio-repo/tree/main/Projects/Student%20management) |
+| **Advanced Calculator** | Clean UI computing logic updates instantly with full physical keyboard mapping. | `DOM Architecture` `CSS` | [🚀 View](https://github.com/uzairBaig395/Portfolio-repo/tree/main/Projects/Calcultaor) |
 
 ---
 
-## ✨ Portfolio Site Features
+## ✨ Live Production Portfolio Features
 
-This README describes me — but my [portfolio site](https://github.com/uzairBaig395/portfolio) itself ships with:
+Beyond my repositories, my interactive [Live Portfolio Site](https://github.com/uzairBaig395/portfolio) is engineered with:
 
-- 🌓 Light/Dark theme toggle (saved across visits)
-- ⌘ Command palette (`Ctrl/Cmd + K`) for instant navigation
-- 🌐 Live GitHub stats pulled from the GitHub API
-- ✨ Interactive particle-network background
-- 🎯 3D tilt + shine effect on project cards
-- 🧭 Scroll-spy navigation with a side dot-nav
-- 📋 One-click email copy & 🎉 confetti on contact form submit
-- ♿ Fully responsive, accessible, and respects reduced-motion preferences
+* 🌓 **Theme State Engine:** Smart dark/light client mode storage.
+* ⌘ **Command Palette:** `Ctrl + K` core listener engine for fluid keyboard navigation.
+* 🌐 **Dynamic Hydration:** Live metric ingestion directly from the GitHub REST API.
+* ✨ **Visual Assets:** Acceleration-optimized custom canvas particle-networks and micro-interactions.
 
 ---
 
-## 📬 Get In Touch
-
-- **Email:** [mirzauzair448@gmail.com](mailto:mirzauzair448@gmail.com)
-- **GitHub:** [@uzairBaig395](https://github.com/uzairBaig395)
-- **LinkedIn:** [Mirza Uzair Baig](https://www.linkedin.com/in/uzair-baig-1699563ab/)
-- **X / Twitter:** [@Uzairbaig3x](https://x.com/Uzairbaig3x)
+## 🤝 Connect With Me
 
 <div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0369a1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/uzairBaig395/portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uzair-baig-1699563ab/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirzauzair448@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uzairBaig395)
+
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Uzairbaig3x)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
+
+*(Note: Make sure to paste your exact profile handles into the Facebook and Instagram URL brackets above!)*
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Quote of the Day
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+
+### 📊 Profile Metrics
+<img src="https://komarev.com/ghpvc/?username=uzairBaig395&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+
+---
+
+**"Code is like humor. When you have to explain it, it's bad."** – Cory House
 
 Made with ☕ and curiosity in Karachi, Pakistan.
 
